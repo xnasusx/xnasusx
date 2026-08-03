@@ -102,8 +102,8 @@ I architect and engineer the platforms myself: React/Vite front ends, Node.js/Ex
 | Certified in Cybersecurity (CC) | ISC2 |
 | AWS Certified Cloud Practitioner (CLF-C02) | AWS |
 
-**M.S. Computer Information Systems**, Concentration: Security — Boston University
-**B.S. Information Technology**, *magna cum laude* — UMass Lowell
+- **M.S. Computer Information Systems**, Concentration: Security — Boston University
+- **B.S. Information Technology**, *magna cum laude* — UMass Lowell
 
 ---
 
