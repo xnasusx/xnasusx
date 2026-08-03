@@ -58,11 +58,11 @@ I architect and engineer the platforms myself: React/Vite front ends, Node.js/Ex
 
 | Project | What it does |
 |---|---|
-| **[u-dont-grc-me](https://github.com/xnasusx/u-dont-grc-me)** `TypeScript` | Control-first GRC prototype — a controls library as the single source of truth, with evidence, risk, and framework mappings composing off of it. |
-| **[risk-quantifier](https://github.com/xnasusx/risk-quantifier)** `HTML` | Place risks on a 5×5 heat map, give each a frequency and loss range, then run 10,000 Monte Carlo iterations and watch the matrix become a distribution. Built to show exactly how much information a qualitative matrix throws away. |
-| **[loss-exceedance-curve](https://github.com/xnasusx/loss-exceedance-curve)** `HTML` | Interactive LEC guide. Overlay risk tolerance, loss reserves, and materiality to read the odds of crossing each one — the answer to "what are the chances we lose more than $X?" |
-| **[fair-model-study](https://github.com/xnasusx/fair-model-study)** `HTML` | Interactive FAIR taxonomy trainer: build the decomposition tree from memory, assign units, match 22 definitions. Placement and unit accuracy scored separately. |
-| **[monte-carlo-demo](https://github.com/xnasusx/monte-carlo-demo)** `HTML` | Watch the law of large numbers converge on a fair coin, with the binomial standard-error band drawn in. Ten flips land anywhere; ten thousand settle down. |
+| **[u-dont-grc-me](https://github.com/xnasusx/u-dont-grc-me)** `TypeScript` | Control-centric GRC platform prototype — controls are the source of truth, with assets, frameworks, evidence, risks, integrations, and AI agent decisions mapped around each one. Command center, audit package assembly, and a 10,000-trial FAIR Monte Carlo engine. React/Vite UI over a SQLite/Lambda API. **[Live](https://xnasusx.github.io/u-dont-grc-me/)** |
+| **[risk-quantifier](https://github.com/xnasusx/risk-quantifier)** `HTML` | Place risks on a 5×5 heat map, give each a frequency and loss range, then run 10,000 Monte Carlo iterations and watch the matrix become a distribution. Built to show exactly how much information a qualitative matrix throws away. **[Live](https://xnasusx.github.io/risk-quantifier/)** |
+| **[loss-exceedance-curve](https://github.com/xnasusx/loss-exceedance-curve)** `HTML` | Interactive LEC guide. Overlay risk tolerance, loss reserves, and materiality to read the odds of crossing each one — the answer to "what are the chances we lose more than $X?" **[Live](https://xnasusx.github.io/loss-exceedance-curve/)** |
+| **[fair-model-study](https://github.com/xnasusx/fair-model-study)** `HTML` | Interactive FAIR taxonomy trainer: build the decomposition tree from memory, assign units, match 22 definitions. Placement and unit accuracy scored separately. **[Live](https://xnasusx.github.io/fair-model-study/)** |
+| **[monte-carlo-demo](https://github.com/xnasusx/monte-carlo-demo)** `HTML` | Watch the law of large numbers converge on a fair coin, with the binomial standard-error band drawn in. Ten flips land anywhere; ten thousand settle down. **[Live](https://xnasusx.github.io/monte-carlo-demo/)** |
 | **[portfolio](https://github.com/xnasusx/portfolio)** `HTML` | [xnasusx.github.io/portfolio](https://xnasusx.github.io/portfolio/) — the full body of work: programs, builds, and the risk lab. |
 
 ---
