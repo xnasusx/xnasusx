@@ -92,6 +92,10 @@ I architect and engineer the platforms myself: React/Vite front ends, Node.js/Ex
 
 ![OneTrust](https://img.shields.io/badge/OneTrust-6B6266?style=flat-square) ![Archer](https://img.shields.io/badge/Archer-6B6266?style=flat-square) ![ServiceNow GRC](https://img.shields.io/badge/ServiceNow_GRC-6B6266?style=flat-square&logo=servicenow&logoColor=white) ![AuditBoard](https://img.shields.io/badge/AuditBoard-6B6266?style=flat-square)
 
+**GRC Engineering Credentials**
+
+![CGE-P](https://img.shields.io/badge/CGE--P-Certified_GRC_Engineer_%C2%B7_Practitioner-4C7359?style=flat-square) ![CGE-AUD](https://img.shields.io/badge/CGE--AUD-Certified_GRC_Engineer_%C2%B7_Auditor_Specialty-4C7359?style=flat-square)
+
 ---
 
 ## 🎓 Certifications & Education
