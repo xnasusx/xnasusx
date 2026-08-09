@@ -104,6 +104,8 @@ I architect and engineer the platforms myself: React/Vite front ends, Node.js/Ex
 | Advanced in AI Risk (AAIR) | ISACA |
 | Certified in Cybersecurity (CC) | ISC2 |
 | AWS Certified Cloud Practitioner (CLF-C02) | AWS |
+| Certified GRC Engineer — Practitioner (CGE-P) | GRC Engineering Club |
+| Certified GRC Engineer — Auditor Specialty (CGE-AUD) | GRC Engineering Club |
 
 - **M.S. Computer Information Systems**, Concentration: Security — Boston University
 - **B.S. Information Technology**, *magna cum laude* — UMass Lowell
