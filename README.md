@@ -120,6 +120,15 @@ I architect and engineer the platforms myself: React/Vite front ends, Node.js/Ex
 
 ---
 
+## ✍️ Recent Writing
+
+<!-- MEDIUM-RECENT-ARTICLES:START -->
+<!-- MEDIUM-RECENT-ARTICLES:END -->
+
+[All posts on Medium →](https://medium.com/@xnasusx)
+
+---
+
 ## 🌱 Community & Contributions
 
 - **President & Founder** — [GRC Engineering Club, Boston Chapter](https://grcengclub.com/chapters/boston#join). Building the local practice around systems, automation, and modern controls work.
