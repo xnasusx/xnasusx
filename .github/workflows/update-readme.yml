@@ -1,0 +1,31 @@
+name: Update Medium articles
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pinned to a commit SHA rather than @main so a future upstream push
+      # cannot silently change what runs with contents:write on this repo.
+      # To take upstream updates, bump this SHA deliberately after review.
+      - uses: shahidsha1612/medium-recent-articles@a94b1165dc0f9649703629e955d632585539b51c
+        with:
+          username: xnasusx
+          count: "3"
+          link_titles: "true"
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update recent Medium articles"
+          git push
