@@ -123,27 +123,6 @@ I architect and engineer the platforms myself: React/Vite front ends, Node.js/Ex
 ## ✍️ Recent Writing
 
 <!-- MEDIUM-RECENT-ARTICLES:START -->
-<table cellpadding="10" cellspacing="0">
-<tr>
-<td width="180" valign="top"><a href="https://xnasusx.medium.com/you-dont-build-a-garden-around-the-blight-f844da2e8f4c"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*pXzp4db9Qjtc4t499BPZkw.png" width="180" height="120" alt="" /></a></td>
-<td valign="top">
-<a href="https://xnasusx.medium.com/you-dont-build-a-garden-around-the-blight-f844da2e8f4c"><b>You Don’t Build a Garden Around the Blight</b></a><br/>
-<sub>Jul 31, 2026</sub><br/>
-Why Controls Should Be the Soil a GRC Program Grows From — Not the Harvest It Inspects Most GRC programs are built backward. They start with...
-</td>
-</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0">
-<tr>
-<td width="180" valign="top"><a href="https://xnasusx.medium.com/hari-seldon-wouldve-made-a-great-ciso-ccc5b165821b"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*enyvm4cGQ3dA5vkYmyK6XQ.png" width="180" height="120" alt="" /></a></td>
-<td valign="top">
-<a href="https://xnasusx.medium.com/hari-seldon-wouldve-made-a-great-ciso-ccc5b165821b"><b>Hari Seldon Would’ve Made a Great CISO</b></a><br/>
-<sub>Jul 13, 2026</sub><br/>
-What Cyber Risk Analysts Can Learn From Asimov’s Foundation In Isaac Asimov’s Foundation series, mathematician Hari Seldon develops “psychoh...
-</td>
-</tr>
-</table>
 <!-- MEDIUM-RECENT-ARTICLES:END -->
 
 [All posts on Medium →](https://medium.com/@xnasusx)
@@ -155,6 +134,7 @@ What Cyber Risk Analysts Can Learn From Asimov’s Foundation In Isaac Asimov’
 - **President & Founder** — [GRC Engineering Club, Boston Chapter](https://grcengclub.com/chapters/boston#join). Building the local practice around systems, automation, and modern controls work.
 - **ISACA AAISM** beta tester and Exam Writing Development Group writer.
 - **ISC2** technical guidance paper co-author and subject matter expert.
+- Writing at [medium.com/@xnasusx](https://medium.com/@xnasusx).
 - Mentoring through ISACA, Big Brothers Big Sisters, and Boston University Admissions.
 
 ---
