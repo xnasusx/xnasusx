@@ -144,6 +144,17 @@ Grouped the same way as the [portfolio case studies](https://xnasusx.github.io/p
 <!-- MEDIUM-RECENT-ARTICLES:START -->
 <table cellpadding="10" cellspacing="0">
 <tr>
+<td width="180" valign="top"><a href="https://xnasusx.medium.com/build-it-in-a-day-own-it-forever-diy-grc-automation-d0a70564d0bc"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*-kQeemSTj-Xh1xDWZFyfFA.png" width="180" height="120" alt="" /></a></td>
+<td valign="top">
+<a href="https://xnasusx.medium.com/build-it-in-a-day-own-it-forever-diy-grc-automation-d0a70564d0bc"><b>Build It in a Day, Own It Forever: DIY GRC Automation</b></a><br/>
+<sub>Oct 19, 2026</sub><br/>
+Abstract Most GRC advice about AI stops at “just build it.” This one keeps going. I take a real question from our community — how do you run...
+</td>
+</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0">
+<tr>
 <td width="180" valign="top"><a href="https://xnasusx.medium.com/you-dont-build-a-garden-around-the-blight-f844da2e8f4c"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*pXzp4db9Qjtc4t499BPZkw.png" width="180" height="120" alt="" /></a></td>
 <td valign="top">
 <a href="https://xnasusx.medium.com/you-dont-build-a-garden-around-the-blight-f844da2e8f4c"><b>You Don’t Build a Garden Around the Blight</b></a><br/>
